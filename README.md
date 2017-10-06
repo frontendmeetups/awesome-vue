@@ -184,6 +184,7 @@
 ### Conferences
 
 - [VueConf](http://conf.vuejs.org)
+- [Vue.js Amsterdam](http://vuejs.Amsterdam) - 16th February 2018
 - [Vue.js London](http://vuejs.london)
 
 ### Podcasts
